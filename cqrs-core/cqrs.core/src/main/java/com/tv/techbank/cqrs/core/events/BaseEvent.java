@@ -11,5 +11,5 @@ import lombok.experimental.SuperBuilder;
 @NoArgsConstructor
 @SuperBuilder
 public abstract class BaseEvent extends Message {
-    private String version;
+    private int version;
 }
