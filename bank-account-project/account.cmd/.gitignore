@@ -4,6 +4,9 @@ test-reports/
 .project
 .settings/
 .idea/
+.mvn/
+.mvn
+.mvn/**
 *.iml
 .tmp
 .sass-cache

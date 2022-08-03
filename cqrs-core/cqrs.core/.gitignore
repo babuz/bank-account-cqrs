@@ -1,3 +1,8 @@
+.mvn/
+.mvn
+.mvn/**
+mvnw
+mvnw.cmd
 target/
 test-reports/
 .classpath
